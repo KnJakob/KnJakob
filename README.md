@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KnJakob
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C and sorting algorithms
