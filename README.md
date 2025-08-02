@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KnJakob
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C and sorting algorithms
+- 👀 I’m interested in Programming and electrical Engineering
+- 🌱 I’m currently learning Back-End Development and Client-Server communication
